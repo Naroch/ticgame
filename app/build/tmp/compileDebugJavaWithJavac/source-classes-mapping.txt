@@ -1,0 +1,6 @@
+com/dataflair/ticgame/BuildConfig.java
+ com.dataflair.ticgame.BuildConfig
+ticgame/MainActivity.java
+ ticgame.MainActivity
+ ticgame.MainActivity$1
+ ticgame.MainActivity$2

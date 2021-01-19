@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Desktop\\ticgame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Desktop\\ticgame\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\ticgame\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_board.xml.flat",
+        "source": "D:\\Desktop\\ticgame\\app\\src\\main\\res\\menu\\menu_board.xml"
+    }
+]
